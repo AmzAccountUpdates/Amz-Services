@@ -4,7 +4,7 @@ int main(){
     printf("Enter the age of Ram");
     scanf("%d", &ram_age);
     printf("Enter the age of Shyam")
-    scanf("%d", &shyam_age);
+    scanf("%d", &shyam_age)
     printf("Enter the age of Ajay");
     scanf("%d", &ajay_age);
     if (condition)
