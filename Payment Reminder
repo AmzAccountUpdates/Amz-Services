@@ -9,7 +9,7 @@ int main(){
     scanf("%d", &ajay_age);
     if (condition)
     {
-        /* code */
+        /* code *
     }
     
     return 0;
